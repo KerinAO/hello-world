@@ -1,1 +1,1 @@
-# hellow-world
+# moj prvi program u C#
